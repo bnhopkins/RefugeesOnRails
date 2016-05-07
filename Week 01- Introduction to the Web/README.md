@@ -9,3 +9,5 @@
 
 ## Thurday
 .. classes and ids
+.. CSS Styling
+
