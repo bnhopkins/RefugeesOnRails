@@ -7,7 +7,7 @@ New Material
 - How to build a Basic Rails App
   - Hello World Rails
     - bin/rails generate controller welcome index
-    - edit index.html file to include only "<h1>Hello, Rails!</h1>"
+    - edit index.html file to include only one header tag with Hello Rails!
     - root 'welcome#index'
     - bin/rails server 
     - navigate to http://localhost:3000 in your browser
