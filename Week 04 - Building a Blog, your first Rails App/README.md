@@ -18,7 +18,21 @@ New Material
 
 ## Thursday
 
+Deploy Project with Heroku
+- intro to Heroku
+  - What is it?
+  - Why is it useful?
+- set up Heroku Account
+- create a heroku app
+  - heroku create
+- Deploy to Heroku
+  1. cd appFolder
+  2. git add .
+  3. git commit -m "your message"
+  4. git push heroku master
+
 Work on project
 - Pull all the pages of the others in the class
 - create a Ruby app 
 - add your blog as a link on your profile page
+
