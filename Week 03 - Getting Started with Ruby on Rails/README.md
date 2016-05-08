@@ -21,13 +21,20 @@
   1. cd Development (or wherever you want to create your ruby app)
   2. rails new theNameOfYourApp
   3. open your new app in sublime (or another text edditor) and start editing!
+- Serve your app
+  - the server how your app is served, or given to the web browser
+  - you can make a local server:
+    - cd /path/to/rails/app
+    - ruby server 
+    - navigate to http://localhost:3000 in your browser
 
-###Command Line Command (intructions for the console)
+__Command Line Command (intructions for the console)__
 ls - show all files in the current directory (folder)
 mkdir directoryName - make a new directory named directoryName
 cd directoryName - change to the directory inside current directory with directoryName
 cd .. - change to the higher directory
 rails new myapp - command to create a new rails app named myapp
+
 
 ## Thurday
 
