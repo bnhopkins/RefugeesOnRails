@@ -21,3 +21,4 @@ New Material
 Work on project
 - Pull all the pages of the others in the class
 - create a Ruby app 
+- add your blog as a link on your profile page
