@@ -5,7 +5,7 @@
 
 New Material
 - How to build a Basic Rails App
-  - Hello World Rails
+  - Hello World Rails (see example HelloWorld)
     - bin/rails generate controller welcome index
     - edit index.html file to include only one header tag with Hello Rails!
     - root 'welcome#index'
@@ -13,7 +13,22 @@ New Material
     - navigate to http://localhost:3000 in your browser
   - create a blog
 
+
 [Review Material with this Guide](http://guides.rubyonrails.org/getting_started.html)
+
+[Step by Step guid to Creating a Blog](http://sixrevisions.com/web-development/how-to-create-a-blog-from-scratch-using-ruby-on-rails/)
+
+
+Ideas for Projects
+
+[Start With a Friend](http://www.start-with-a-friend.de/)
+Website to help refugees can find local friends
+
+[KUB Berlin](http://www.kub-berlin.org/index.php/en)
+
+[Bike and Walking Tours](http://www.daz.de/sixcms/detail.php?object_id=&area_id=34&id=16358829&template_id=46&lang=de)
+
+[Let's Integrate](https://letsintegrate.de/en)
 
 
 ## Thursday

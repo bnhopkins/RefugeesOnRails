@@ -1,6 +1,10 @@
 # General Resources
 Here you can find helpful resources for web development and programming.
 
+##Slack Channel!
+[Slack](https://ror-wooga-c1.slack.com/messages/general/)
+Feel free to post questions, links or anything else cool.
+
 ##Online Courses
 
 [Firehose](https://www.thefirehoseproject.com/)
