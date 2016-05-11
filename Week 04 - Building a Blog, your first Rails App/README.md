@@ -19,8 +19,11 @@ New Material
 [Step by Step guid to Creating a Blog](http://sixrevisions.com/web-development/how-to-create-a-blog-from-scratch-using-ruby-on-rails/)
 
 
-Ideas for Projects
 
+
+__Ideas for Projects__:
+
+Cool Sites that Exist
 [Start With a Friend](http://www.start-with-a-friend.de/)
 Website to help refugees can find local friends
 
@@ -29,6 +32,17 @@ Website to help refugees can find local friends
 [Bike and Walking Tours](http://www.daz.de/sixcms/detail.php?object_id=&area_id=34&id=16358829&template_id=46&lang=de)
 
 [Let's Integrate](https://letsintegrate.de/en)
+
+
+Ideation for Projects
+- What are problems in your life
+  - Coming to Berlin
+    - getting lost in the subway
+    - finding a house
+    - finding a job
+    - knowing how to contact doctors and medical professionals
+    - finding counselling
+    
 
 
 ## Thursday

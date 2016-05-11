@@ -35,6 +35,9 @@ cd directoryName - change to the directory inside current directory with directo
 cd .. - change to the higher directory
 rails new myapp - command to create a new rails app named myapp
 
+[Learning the Commandline with Codeacademy](https://www.codecademy.com/learn/learn-the-command-line)
+Use this resource for a complete review of the command line
+
 
 ## Thurday
 
