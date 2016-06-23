@@ -1,0 +1,11 @@
+== README
+
+To Run Hello World 2
+
+1. go to terminal
+2. cd Development (or whatever directory you would like to files to live in)
+3. git clone 
+4. cd HelloWorld2
+5. rails server
+6. go to http://localhost:3000/
+
