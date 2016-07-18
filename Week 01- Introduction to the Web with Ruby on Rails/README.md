@@ -1,15 +1,29 @@
 #Introduction to the Web
 
 ## Tuesday
-- Hello World Rails (example)
+- Intro to Web Applications (see ppt)
+- Class Projects (see ppt)
 - Rails overview
-- Frameworks
-- App structure
+  - [First Ruby App](https://www.youtube.com/watch?v=fP64Wvz13AM)
+- What are Frameworks?
+- Breif Walkthrough of App structure
 - Terminal basics
-- Intro to Ruby: [Practice](https://www.codecademy.com/learn/ruby)
-- Goals of the Class:
-	
-	Cool Sites that You could build!
+- Hello World Rails (example)
+  - Intro to HTML
+ 	- Documents Tags, Attributes and Elements
+ 	- Set up server and view
+- Git & Github
+  - [Overview](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+  - Create a Github account
+
+
+  	###Sites Built with Ruby on Rails
+  	[Ask.fm](http://ask.fm/)
+  	[Airbnb](airbnb.com)
+  	[Couchsurfing](http://www.couchsurfing.com/)
+
+	###Other Cool Sites that You could build!
+
 	[Start With a Friend](http://www.start-with-a-friend.de/)
 	Website to help refugees can find local friends
 
@@ -19,27 +33,15 @@
 
 	[Let's Integrate](https://letsintegrate.de/en)
 	
-###Homework
-[Code Academy](https://www.codecademy.com/learn/ruby) - Intro to Ruby 
-	- Do lessons "Variables & Data Types", "Strings", and "Writing Good Code"
+
 
 
 ## Thurday
-- Git & Github
-  - [Overview](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+
 - Hello World 2 (example)
   - pull from Github
   - change HTML and CSS (intro to HTML and CSS)
+  - Lists, Links & Images
 - More terminal practice
-- Ruby practice (exercises)
-
-###Homework
-[Code Academy](https://www.codecademy.com/learn/ruby) - Putting the Form in Formatter
-- Complete entire section
-- Bonus - Continue with Code academy
 
 
-##Resources
-[Basic Ruby cheatsheet](http://www.pragtob.info/rails-beginner-cheatsheet/)
-[Rails structure](http://www.tutorialspoint.com/ruby-on-rails/rails-directory-structure.htm)
-[Git overview]

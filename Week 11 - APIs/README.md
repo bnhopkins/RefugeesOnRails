@@ -1,2 +1,8 @@
-# RefugeesOnRails
-The full curriculum and resources for a coding course for refugee students in Berlin. 
+#Authentication 
+
+##Tuesday
+- Demo of Authentication
+- continue to work on Projects
+
+##Thursday
+- Work on projects
