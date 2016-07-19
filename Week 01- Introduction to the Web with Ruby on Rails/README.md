@@ -13,6 +13,7 @@
  	- Documents Tags, Attributes and Elements
  	- Set up server and view
 - Git & Github
+  - What is Git? 
   - [Overview](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
   - Create a Github account
 
@@ -33,11 +34,9 @@
 
   	[Let's Integrate](https://letsintegrate.de/en)
 	
-##Homework
 
 ##Extras
-
-
+[Brackets](http://brackets.io/)
 
 ## Thurday
 
