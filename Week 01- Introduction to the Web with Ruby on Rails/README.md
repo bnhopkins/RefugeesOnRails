@@ -37,6 +37,8 @@
 
 ##Extras
 [Brackets](http://brackets.io/)
+[Try Git](https://try.github.io/levels/1/challenges/1)
+[Codecademy html course](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1)
 
 ## Thurday
 
