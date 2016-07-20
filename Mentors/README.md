@@ -1,5 +1,8 @@
 # Mentor Guides
 
+Mentor Slack:
+https://rorfrauenmentors.slack.com/messages/general/details/
+
 ##Before you teach:
 
 1. Complete this [getting started tutorial](http://guides.rubyonrails.org/getting_started.html)
