@@ -61,6 +61,7 @@
   - add a link
 - Introduce CSS
   - Change colors
+  - [Code Academy to Learn CSS](https://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
 
 ##Extras
 
@@ -72,6 +73,6 @@
   - add a paragraph about who you are
   - add a link to your Facebook
 - Continue with [Codecademy html course](https://www.codecademy.com/courses/web-beginner-en-y2Yjd/0/1?curriculum_id=50579fb998b470000202dc8b) - Do HTML Basics II 1-16
-
+- Use this [HTML Cheatshet](http://www.wired.com/2010/02/html_cheatsheet/) to review basic tags and explore other tags 
 
 
