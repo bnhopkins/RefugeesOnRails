@@ -40,7 +40,7 @@
 - [Try Git](https://try.github.io/levels/1/challenges/1) - do a few challenges with try git to practice git commands!
 - [Codecademy html course](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1) - Extra practice, do HTML Basics 1-14
 
-## Thurday
+## Thursday
 
 - Intro to Portfolio assignment
   - Why is this useful?
@@ -73,6 +73,6 @@
   - add a paragraph about who you are
   - add a link to your Facebook
 - Continue with [Codecademy html course](https://www.codecademy.com/courses/web-beginner-en-y2Yjd/0/1?curriculum_id=50579fb998b470000202dc8b) - Do HTML Basics II 1-16
-- Use this [HTML Cheatshet](http://www.wired.com/2010/02/html_cheatsheet/) to review basic tags and explore other tags 
+- Use this [HTML Cheatsheet](http://www.wired.com/2010/02/html_cheatsheet/) to review basic tags and explore other tags 
 
 
