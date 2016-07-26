@@ -1,7 +1,7 @@
 #Practice with HTML/CSS
 
 ## Tuesday
-- CSS overview
+- CSS overview [CSS introduction](http://www.w3schools.com/css/css_intro.asp)
 - What are classes? 
 	- css selector .class [w3schools on classes](http://www.w3schools.com/html/html_classes.asp)
 - What are Ids?
