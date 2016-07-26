@@ -11,6 +11,7 @@
 	- create a set of images of cool places you have been to
 	- create a table with these images
 - Difference between [id and class](https://css-tricks.com/the-difference-between-id-and-class/)
+- [Div](http://www.w3schools.com/tags/tag_div.asp)
 
 ###Extras
 - [FreeCodeCamp](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
