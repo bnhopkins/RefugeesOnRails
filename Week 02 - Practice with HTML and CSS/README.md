@@ -3,9 +3,9 @@
 ## Tuesday
 - CSS overview
 - What are classes? 
-	- css selector .class
+	- css selector .class [w3schools on classes](http://www.w3schools.com/html/html_classes.asp)
 - What are Ids?
-	- css selector #id
+	- css selector #id [w3schools on id](http://www.w3schools.com/tags/att_global_id.asp)
 - Divs
 - Add classes and Ids to portfolio page:
 	- create a set of images of cool places you have been to
