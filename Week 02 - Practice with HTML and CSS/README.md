@@ -6,12 +6,13 @@
 	- css selector .class [w3schools on classes](http://www.w3schools.com/html/html_classes.asp)
 - What are Ids?
 	- css selector #id [w3schools on id](http://www.w3schools.com/tags/att_global_id.asp)
-- Divs
+- [Divs](http://www.w3schools.com/tags/tag_div.asp)
 - Add classes and Ids to portfolio page:
 	- create a set of images of cool places you have been to
 	- create a table with these images
 - Difference between [id and class](https://css-tricks.com/the-difference-between-id-and-class/)
-- [Div](http://www.w3schools.com/tags/tag_div.asp)
+
+- CSS positioning [What display: means](https://kilianvalkhof.com/2008/css-xhtml/understanding-css-positioning-part-1/)
 
 ###Extras
 - [FreeCodeCamp](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
