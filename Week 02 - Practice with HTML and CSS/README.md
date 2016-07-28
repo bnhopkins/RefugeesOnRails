@@ -22,6 +22,19 @@
 
 ## Thursday
 - Navigation bar, for Home and About
+	example:
+	html
+	```html
+		<ul class="nav navbar-nav">
+		  <li><%=link_to "home", home_page_path%></li>
+		  <li><%=link_to "about", about_page_path %></li>
+		</ul>
+	```
+	routes
+	```
+	get 'static_pages/home', :as => 'home_page'
+	get 'static_pages/about', :as => 'about_page'
+	```
 
 - Continue to work on Portfolio
 - Deploy portfolio app to Heroku
