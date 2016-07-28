@@ -32,6 +32,20 @@
 	  <li><%=link_to "OUR SERVICES", our_services_path %></li>
 	</ul>
 	```
+
+	CSS
+	```css
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+	} 
+
+	li a {
+	    display: block;
+	}
+	```
 - Continue to work on Portfolio
 - Deploy portfolio app to Heroku
 	- [How to Deploy](https://devcenter.heroku.com/articles/git)
