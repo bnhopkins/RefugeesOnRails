@@ -28,8 +28,8 @@
 	example:
 	```html
 	<ul class="nav navbar-nav">
-	  <li><%=link_to "ABOUT", about_us_path%></li>
-	  <li><%=link_to "OUR SERVICES", our_services_path %></li>
+	  <li><%=link_to "home", home_path%></li>
+	  <li><%=link_to "about", about_path %></li>
 	</ul>
 	```
 
