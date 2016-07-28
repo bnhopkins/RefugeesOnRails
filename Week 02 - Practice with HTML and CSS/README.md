@@ -22,30 +22,7 @@
 
 ## Thursday
 - Navigation bar, for Home and About
-	1. Create an unordered list
-	2. add a list item
-	3. add a link wiht <%link_to "About", about_path%>
-	example:
-	```html
-	<ul class="nav navbar-nav">
-	  <li><%=link_to "home", home_path%></li>
-	  <li><%=link_to "about", about_path %></li>
-	</ul>
-	```
 
-	CSS
-	```css
-	ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 60px;
-	} 
-
-	li a {
-	    display: block;
-	}
-	```
 - Continue to work on Portfolio
 - Deploy portfolio app to Heroku
 	- [How to Deploy](https://devcenter.heroku.com/articles/git)
