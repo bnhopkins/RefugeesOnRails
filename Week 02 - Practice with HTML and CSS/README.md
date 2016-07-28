@@ -23,8 +23,8 @@
 ## Thursday
 - Pick a website and try to mimic the CSS
 Examples:
-http://startbootstrap.com/template-categories/all/
-https://www.squarespace.com/websites/templates/
+- http://startbootstrap.com/template-categories/all/
+- https://www.squarespace.com/websites/templates/
 
 - Navigation bar, for Home and About
 	example:
