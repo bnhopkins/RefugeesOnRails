@@ -19,7 +19,7 @@
 
 ## Thursday
 - Navigation bar, for Home and About
-- Introduce Bootstrap
+- Continue to work on Portfolio
 - Deploy portfolio app to Heroku
 	- [How to Deploy](https://devcenter.heroku.com/articles/git)
 		- Deploy with github
