@@ -1,15 +1,11 @@
 #Adding Tables and Forms
 
 ##Tuesday
-- Introduction to Ruby
-	- What is a programming language
-	- What is the difference between HTML and Ruby?
-	- Basic syntax (Ruby ppt)
+[Images](http://getbootstrap.com/css/#type-alignment)
+[Text-alignment](http://getbootstrap.com/css/#type-alignment)
+[Text-transformation](http://getbootstrap.com/css/#type-transformation)
 
-###Extras
-- Extra practice with ruby
-	- [Try Ruby](http://tryruby.org/)
-	- [Ruby Code Academy](https://www.codecademy.com/learn/ruby)
+
 
 ##Thursday
 - Final Touches on Portfolio Website
