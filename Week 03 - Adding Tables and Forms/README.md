@@ -1,9 +1,8 @@
 #Adding Tables and Forms
 
 ##Tuesday
-- [Image-shapes](http://getbootstrap.com/css/#type-alignment)
-- [Text-alignment](http://getbootstrap.com/css/#type-alignment)
-- [Text-transformation](http://getbootstrap.com/css/#type-transformation)
+- [Changing images with Bootstrap](http://www.w3schools.com/bootstrap/bootstrap_ref_css_images.asp)
+- [Changing text styling and placement](http://www.w3schools.com/Bootstrap/bootstrap_ref_css_text.asp)
 
 
 
