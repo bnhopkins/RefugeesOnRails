@@ -1,8 +1,9 @@
 #Adding Tables and Forms
 
 ##Tuesday
-- [Changing images with Bootstrap](http://www.w3schools.com/bootstrap/bootstrap_ref_css_images.asp)
-- [Changing text styling and placement](http://www.w3schools.com/Bootstrap/bootstrap_ref_css_text.asp)
+- [Box model](http://www.w3schools.com/css/css_boxmodel.asp)
+- [Navigation bar](http://www.w3schools.com/css/css_navbar.asp)
+- [Image gallery](http://www.w3schools.com/css/css_image_gallery.asp)
 
 
 
