@@ -1,9 +1,9 @@
 #Adding Tables and Forms
 
 ##Tuesday
-[Images](http://getbootstrap.com/css/#type-alignment)
-[Text-alignment](http://getbootstrap.com/css/#type-alignment)
-[Text-transformation](http://getbootstrap.com/css/#type-transformation)
+- [Images](http://getbootstrap.com/css/#type-alignment)
+- [Text-alignment](http://getbootstrap.com/css/#type-alignment)
+- [Text-transformation](http://getbootstrap.com/css/#type-transformation)
 
 
 
