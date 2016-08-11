@@ -23,8 +23,8 @@
 
 
 ##Thursday 
+- Cover Variables, Arrays, Loops, Objects in Ruby
 - Create a form for the blog with 
-Variables, Arrays, Loops, Objects
 
 
 
