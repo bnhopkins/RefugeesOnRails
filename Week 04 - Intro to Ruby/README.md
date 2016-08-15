@@ -24,7 +24,7 @@
 
 ##Thursday 
 - Cover Variables, Arrays, Loops, Objects in Ruby
-- Create a form for the blog with 
+- Create a form for the blog with command line scaffolding 
 
 
 
