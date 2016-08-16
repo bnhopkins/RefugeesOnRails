@@ -7,10 +7,10 @@
 
 
 ## Tuesday
-- MVC overview (powerpoint)
 - Watch [MVC Overview](https://www.youtube.com/watch?v=3mQjtk2YDkM)
+- MVC overview (powerpoint)
 - Basic scaffold (example)
-- Sign up for FreeCodeCamp
+- Style blog
 - Ruby 
 	- Methods and Classes
 
