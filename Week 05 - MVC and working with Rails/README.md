@@ -25,6 +25,38 @@ Form code:
 <% end %>
 
 
+add to app/controllers/articles_controller.rb :
+
+def create
+ @article = Article.new(params.require(:article).permit(:title, :text)) 
+  @article.save
+  redirect_to @article
+end
+
+
+add to app/controllers/articles_controller.rb
+
+def show
+    @article = Article.find(params[:id])
+  end
+
+
+
+create a new file app/views/articles/show.html.erb
+
+then add this
+
+<p>
+  <strong>Title:</strong>
+  <%= @article.title %>
+</p>
+ 
+<p>
+  <strong>Text:</strong>
+  <%= @article.text %>
+</p>
+
+
 
 
 ## Tuesday
