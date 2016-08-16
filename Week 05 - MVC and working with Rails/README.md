@@ -5,6 +5,27 @@
 - Ability to model classes and to apply methods and inheritance properties
 - Understanding of controller logic, syntax & connection to routes
 
+Form code:
+
+
+<%= form_for :article, url: articles_path do |f| %>
+  <p>
+    <%= f.label :title %><br>
+    <%= f.text_field :title %>
+  </p>
+ 
+  <p>
+    <%= f.label :text %><br>
+    <%= f.text_area :text %>
+  </p>
+ 
+  <p>
+    <%= f.submit %>
+  </p>
+<% end %>
+
+
+
 
 ## Tuesday
 - Watch [MVC Overview](https://www.youtube.com/watch?v=3mQjtk2YDkM)
