@@ -7,7 +7,7 @@
 
 Form code:
 
-
+```
 <%= form_for :article, url: articles_path do |f| %>
   <p>
     <%= f.label :title %><br>
@@ -55,7 +55,7 @@ then add this
   <strong>Text:</strong>
   <%= @article.text %>
 </p>
-
+```
 
 
 
