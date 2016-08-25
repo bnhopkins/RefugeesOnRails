@@ -137,6 +137,7 @@ end
 Consider what objects, or models, you need to create your blog project. Once you have created model(s) and controller(s) for your blog project, we will move on to styling the VIEW(s), which is what your users will see on each page that you create. 
 
 
+
 Resources:
 [Writing classes](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
 [Controllers](http://www.tutorialspoint.com/ruby-on-rails/rails-controllers.htm)
