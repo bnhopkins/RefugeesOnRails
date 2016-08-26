@@ -1,30 +1,28 @@
 #More on Bootstrap
 
 ##Tuesday
-TBD - continue with styling & bootstrap or other gem usage
-
 Lesson Goals
 
-Understand the 3 ways in which styles could be defined. 1hr [May not be necessary depending on class' understanding of CSS though vital to understanding the wins with a gem like bootstrap]
-Appreciate the role that the bootstrap gem plays. 1.5 hrs
-Understand responsive design. 0.5hr [Not Crucial]
-Assignment/group work.
+- Understand the 3 ways in which styles could be defined. 1hr 
+- Appreciate the role that the bootstrap gem plays. 1.5 hrs
+- Understand responsive design. 0.5hr [Not Crucial]
+- Assignment/group work.
 
 Approach
-Understand the 3 ways in which styles could be defined.
+- Understand the 3 ways in which styles could be defined.
 - Demonstrate the pain with replicating modifications for the same visual display multiple times accross elements.
-1. Apply inline style to any of the textboxes in the blog form. (border-radius: 5px; height: 23px; width: 278px;)
-2. Apply the same inline style on all other input boxes.
-3. Modify one of the inline styles.
-4. Apply the same modification to all the inline styles.
+ + Apply inline style to any of the textboxes in the blog form. (border-radius: 5px; height: 23px; width: 278px;)
+ + Apply the same inline style on all other input boxes.
+ 3. Modify one of the inline styles.
+ 4. Apply the same modification to all the inline styles.
 
 - Demonstrate how this pain can be eased. Eventually introducing styling of html elements using classes.
-1. Extract inline style as a class into separate style block on top of form.
-2. Replace inline style on individual elements with reference to the defined class in the extracted block.
-3. Now change color of input box to blue. (color: blue)
-4. Refresh page to reflect modified input box attributes.
-5. Extract style block into a separate file (form_fields.css) to show that this can actually be decoupled further.
-6. Set input box font size to 20px (font-size: 18px;).
+ 1. Extract inline style as a class into separate style block on top of form.
+ 2. Replace inline style on individual elements with reference to the defined class in the extracted block.
+ 3. Now change color of input box to blue. (color: blue)
+ 4. Refresh page to reflect modified input box attributes.
+ 5. Extract style block into a separate file (form_fields.css) to show that this can actually be decoupled further.
+ 6. Set input box font size to 20px (font-size: 18px;).
 
 - Demonstrate different sections of the same page can be styled differently. Eventually introducing styling of html elements using ids and element tags.
 1. Add style for `Back` link in form_fields.css refrencing it the `back-link` id. Set text color to green (color: green).
