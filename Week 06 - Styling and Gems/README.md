@@ -1,6 +1,81 @@
 #Styling and Gems
 
 ##Tuesday
+
+TBD - continue with styling & bootstrap or other gem usage
+
+##Thursday
+>> rails new blog_site
+>> cd blog_site
+>> rails generate scaffold blog title:string description:string
+>> rake db:migrate
+
+The rails generate scaffold blog will create three routes automatically. 
+/blogs/new
+/blogs/1/edit
+/blogs/{id}
+
+The /blogs/new route is where you will go in order to create your first new blog post.
+
+Go to localhost:3000/blogs/new and you can see that there is already a title and description set up for your blog.
+
+The button has been automatically created by Rails, and it, like everything in your blog, you can change the text, the color, the shapes, and the fonts that are shown. This is called styling. 
+
+Most of what you need to get your Rails applications to look good, is to STYLE them.
+
+-  We went into the Blogs folder in our application and then
+- We went into the _form.html.erb file in order to make some style changes to our blog.
+- We went to the top of our _form.html.erb file and we began to style by creating classes.
+
+1. We added ‘class’ to each of the div class “field” form entries, and we put in things like:
+   class: “border-radius: 3px” and
+   class: “font-size: 12px” and
+   class: “font-family: verdana” and
+   class: “width: 200px"
+2. We then added the styles that we added to this _form.html.erb file, to a separate file.
+3. We opened a new file in the stylesheets folder & created a new file that we named “form_styles.css” and we copied the test styles below into that .css file (or style sheet)
+   *Then we looked at how these style changes affected the blog.
+
+We then started with introduction to *Bootstrap*
+
+1. Go to: https://github.com/twbs/bootstrap-sass
+	- Look down on the page in the ReadMe file to find this:
+	gem 'bootstrap-sass', '~> 3.3.6'
+	gem 'sass-rails', '>= 3.2'
+
+2. Copy the above two lines into the Gemfile in your application (in the Ruby application, all the way at the bottom, UNDER the asterisks*** 
+
+3. Go to the Terminal and type 
+	>> bundle install
+
+   *If you get an error (because the bootstrap gem is already installed) then just remove the duplicate line from your gemfile and run ‘bundle install’ again.
+
+4. Now go to your application folder and rename the file “application.css” into “application.scss.” Save it.
+
+5. Add the following two lines of code to the bottom of your application.scss file:
+	@import "bootstrap-sprockets";
+	@import “bootstrap";
+
+6. Now go back to your _form.html.erb file and remove the word “Input” from the two places where it appears. Leave the quotes, we will be adding something else!
+
+7. We will add the style that we have copied to the area by pasting class: "form-control" into the text-field lines in the “field” part of your _form.html.erb file
+
+*QUICK TIP*
+Use this website *http://htmlcolorcodes.com/color-names*
+It will allow you to reference or to create the different colors with their hex numbers, or with their rgb code (example, either paste in #fb0347 for a red color, or paste in rgb(176,193,0) for a green color: 
+
+IMPORTANT!
+The <%=yield%> is in the application.html.erb file it holds elements for every page. 
+   
+   This tag is in the application.html.erb file, and if you put a word inside of this tag, that word will appear on every single page of the application. Try it!
+
+We will do more styling in upcoming classes. Check out the Bootstrap CSS site for more info on the options and templates you have available to use: *http://getbootstrap.com/css/*
+
+
+
+
+
+##Tuesday
 Lesson Goals
 
 Understand the 3 ways in which styles could be defined. 1hr [May not be necessary depending on class' understanding of CSS though vital to understanding the wins with a gem like bootstrap]
