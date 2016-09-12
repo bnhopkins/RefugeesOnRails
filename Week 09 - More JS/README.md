@@ -46,7 +46,7 @@
  - replace the menu code in the index.html.erb file with <code><%= render 'mainmenu' %></code>.
  - Refresh the page to make sure that the menu appears. Put the <code><%= render 'mainmenu' %></code> code where ever you want the menu to appear. Now, if we want to add/remove an item to the menu we just have to change one file (_mainmenu.html.erb). 
  - kill your server and in the commandline write <code>rails generate controller static_pages home contact </code>
- - in the _config.routes.rb_ file we need to check to make sure that we have  
+ - in the _config/routes.rb_ file we need to check to make sure that we have  
 ```ruby
 	get  'static_pages/home'
   	get  'static_pages/contact'
