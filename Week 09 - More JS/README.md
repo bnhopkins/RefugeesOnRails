@@ -24,7 +24,7 @@
   </div>
  </div>
 ```
- - Just below the div with class="container" we will add our navigation menu. There is a detailed navbar tutorial on w3schools](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
+ - Just below the div with class="container" we will add our navigation menu. There is a detailed [navbar tutorial on w3schools](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp)
 ```ruby
   <nav class="navbar navbar-default">
     <div class="container-fluid">
