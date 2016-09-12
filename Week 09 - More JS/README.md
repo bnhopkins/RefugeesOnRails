@@ -4,7 +4,7 @@
 - Scope & Closures
 - Merging Profile page with Blog
  - Your current index file should look something like 
-<syntaxhighlight lang="ruby">
+<syntaxhighlight lang="ruby" line>
  <div class="container"> 
   <p id="notice"><%= notice %></p>
   <div class="row">
@@ -47,23 +47,23 @@
  - Refresh the page to make sure that the menu appears. Put the <code><%= render 'mainmenu' %></code> code where ever you want the menu to appear. Now, if we want to add/remove an item to the menu we just have to change one file (_mainmenu.html.erb). 
  - kill your server and in the commandline write <code>rails generate controller static_pages home contact </code>
  - in the _config.routes.rb_ file we need to check to make sure that we have  
-<code>
+<syntaxhighlight lang="ruby">
 	get  'static_pages/home'
   	get  'static_pages/contact'
-</code>
+</syntaxhighlight>
  - just below this let us add <code>get 'contact', to: 'static_pages#contact'</code> which will link the www.domain.com/contact to the contact page. 
  - Also in this file let's change the root page to <code>root 'static_pages#home'</code>
  - Restarting the rails server and refreshing our page we now see that the static home page is our main page of the project. 
  - replace the content of the home.html.erb and contact.html.erb with 
-<code>
+<syntaxhighlight lang="ruby" line>
 <div class="container">
 	<%= render '/posts/mainmenu' %>
 	<p id="notice"><%= notice %></p>
 </div>
-</code>
+</syntaxhighlight>
  - Go to your original profile page project and add in the content of your home.html.erb file. Also make sure you copy of over any images, custom css code, java script, etc that you might have used in your original project. 
 -- Finally we need to update our menu and link everything together. In the _mainmenu.html.erb file we need to make update it as below. 
-<syntaxhighlight lang="ruby">
+<syntaxhighlight lang="ruby" line>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
